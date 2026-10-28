@@ -7,7 +7,8 @@ This project is part of my **TKS Build Phase**. It features a sign language tran
 ## 🛠️ Interactive Tinkercad Simulation
 
 You can view and test the complete circuit simulation online:
-👉 **[View Tinkercad Simulation](https://www.tinkercad.com/things/2pK7bZvhzvH-flex-glove-tks?sharecode=urHjeWdTLJ9Q2QnliufdLfcKO60W2fz48AL-rJ4NTxY)**
+**[View Tinkercad Simulation](https://www.tinkercad.com/things/2pK7bZvhzvH-flex-glove-tks?sharecode=urHjeWdTLJ9Q2QnliufdLfcKO60W2fz48AL-rJ4NTxY)**
+![Simulation](Flex-Glove-TKS-simulation.png)
 
 ---
 
@@ -23,7 +24,7 @@ You can view and test the complete circuit simulation online:
 
 Here are the serial monitor readings obtained for each hand gesture (Numbers 1 through 9):
 
-![Sensor Data Results](Flex-Glove-TKS-simulation.png)
+![You can read Results.md]
 
 ---
 
