@@ -24,7 +24,6 @@ You can view and test the complete circuit simulation online:
 Here are the serial monitor readings obtained for each hand gesture (Numbers 1 through 9):
 
 ![Sensor Data Results](Flex-Glove-TKS-simulation.png)
-*(Note: Make sure to replace "nombre-de-tu-imagen.png" with the exact file name of the screenshot you uploaded to the repository).*
 
 ---
 
