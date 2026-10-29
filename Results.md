@@ -1,8 +1,8 @@
-# Réplica de Guante Traductor de Lenguaje de Señas (Números 1 al 9)
+# Sign Language Translator Glove Replica (Numbers 1 through 9)
 
-En esta sección se muestran los resultados obtenidos de la lectura de los sensores para cada uno de los números del 1 al 9 interpretados por el guante.
+This section presents the results obtained from the sensor readings for each of the numbers from 1 to 9 as interpreted by the glove.
 
-## Resultados Experimentales
+## Experimental Results
 
 | Number 1 | Number 2 |
 | :---: | :---: |
