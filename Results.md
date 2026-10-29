@@ -4,22 +4,22 @@ En esta sección se muestran los resultados obtenidos de la lectura de los senso
 
 ## Resultados Experimentales
 
-| Número 1 | Número 2 |
+| Number 1 | Number 2 |
 | :---: | :---: |
-| ![Resultado Número 1](Results-number-1.png) | ![Resultado Número 2](ruta/a/tu/imagen_o_captura_2.png) |
+| ![Results Number 1](Results-number-1.png) | ![Results Number 2](Results-number-2.png) |
 
-| Número 3 | Número 4 |
+| Number 3 | Number 4 |
 | :---: | :---: |
-| ![Resultado Número 3](ruta/a/tu/imagen_o_captura_3.png) | ![Resultado Número 4](ruta/a/tu/imagen_o_captura_4.png) |
+| ![Results Number 3](Results-number-3.png) | ![Results Number 4](Results-number-4.png) |
 
-| Número 5 | Número 6 |
+| Number 5 | Number 6 |
 | :---: | :---: |
-| ![Resultado Número 5](ruta/a/tu/imagen_o_captura_5.png) | ![Resultado Número 6](ruta/a/tu/imagen_o_captura_6.png) |
+| ![Results Number 5](Results-number-5.png) | ![Results Number 6](Results-number-6.png) |
 
-| Número 7 | Número 8 |
+| Number 7 | Number 8 |
 | :---: | :---: |
-| ![Resultado Número 7](ruta/a/tu/imagen_o_captura_7.png) | ![Resultado Número 8](ruta/a/tu/imagen_o_captura_8.png) |
+| ![Results Number 7](Results-number-7.png) | ![Results Number 8](Results-number-8.png) |
 
-| Número 9 | |
+| Number 9 | |
 | :---: | :---: |
-| ![Resultado Número 9](ruta/a/tu/imagen_o_captura_9.png) | |
+| ![Results Number 9](Results-number-9.png) | |
