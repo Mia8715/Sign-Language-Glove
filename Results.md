@@ -2,11 +2,11 @@
 
 This section presents the results obtained from the sensor readings for each of the numbers from 1 to 9 as interpreted by the glove.
 
-D1: refers to the thumb
-D2: refers to the index finger
-D3: refers to the middle finger
-D4: refers to the ring finger
-D5: refers to the little finger
+* **D1:** refers to the thumb
+* **D2:** refers to the index finger
+* **D3:** refers to the middle finger
+* **D4:** refers to the ring finger
+* **D5:** refers to the little finger
 
 ## Experimental Results
 
