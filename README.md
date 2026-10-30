@@ -25,7 +25,7 @@ You can view and test the complete circuit simulation online:
 
 The serial monitor readings obtained for each hand gesture (Numbers 1 through 9):
 
-You can read Results.md
+You can read Results.md to see the data
 
 ---
 
@@ -42,3 +42,5 @@ You can read Results.md
 * `glove_code_1.ino` — Arduino code for reading sensor data.
 * `glove_code_2.ino` — Arduino code for reading sensor data.
 * `README.md` — Project documentation and guide.
+* `Results.md` — Project results data.
+* `Flex-Glove-TKS-simulation.png` — Project simulation.
